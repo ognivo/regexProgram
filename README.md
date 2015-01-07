@@ -15,6 +15,13 @@ $ make      # builds the program
 $ ./regex   # runs the program
 ```
 
+### Installation on Ubuntu 14.04 LTS
+To install the programm on Ubuntu, you will need Boost and Curses libraries,
+which can be installed by performing the following command:
+```
+$ sudo apt-get install libboost-all-dev libncurses5-dev
+```
+
 Interface
 ---
 | Input | Description |
